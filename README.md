@@ -1,4 +1,4 @@
-# Python-Task-CSI-
+# Python-Task-CSI
 This Repository consists of the files used to complete the given 6 tasks covering the different functionalities of Python.
 
 Features used
